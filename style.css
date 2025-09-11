@@ -1,5 +1,5 @@
 body{
-  background-color:rgb(221, 126, 140)
+  background-color:light pink
 }
 
 
@@ -8,7 +8,7 @@ body{
 
 
 P{
-color:rgb(83, 2, 2); font-weight: 400;
+color:white; font-weight: 400;
 }
 
 
@@ -18,6 +18,7 @@ max-width: 600px;
 
 
 }
+
 
 
 
