@@ -4,7 +4,13 @@ body{
 
 
 
+  <style>
+      .wy-srodkowany-tekst {
+        text-align: center;
+      }
+    </style>
 
+    <p class="wy-srodkowany-tekst">Ten tekst jest wyśrodkowany.</p>
 
 
 P{
@@ -18,6 +24,7 @@ max-width: 600px;
 
 
 }
+
 
 
 
